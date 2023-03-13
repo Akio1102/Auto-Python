@@ -1,12 +1,13 @@
 # Auto-Python
 
-#Automatización con PyAutogui
+# Automatización con PyAutogui
 
-####Descargar Libreria
+#### Descargar Libreria
 
 `python3 -m pip install pyautogui`
 
-####Descargar Dependencias en Linux
+#### Descargar Dependencias en Linux
+
 Descargamos Scrot, una herramienta básica y flexible que ofrece varias opciones útiles para realizar capturas de pantalla desde la línea de comandos de Linux.
 
 `sudo apt-get install scrot`
